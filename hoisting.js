@@ -20,7 +20,7 @@ try {
 const constVariable = 'I am a const variable';
 console.log(constVariable);
 
-// Hoisting with functions
+// Hoisting with function
 console.log(hoistedFunction());
 
 function hoistedFunction() {
